@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMiVQed0Dsa7U9sUzhM2XYlp4rTM6WSln77HjU+uq2FpMycVETkl+nYsBa2tIIPDjLh0lAtwK8taIZ6MS1i1EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilker\\source\\repos\\Otello\\Otello\\Otello.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilker\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ilker\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\ilker\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
